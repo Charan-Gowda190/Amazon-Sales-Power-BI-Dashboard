@@ -44,3 +44,7 @@ Amazon-Sales-Dashboard.pbix**
 Charan Gowda**
 
 GitHub: https://github.com/Charan-Gowda190
+
+## Dashboard Preview
+
+![Amazon Sales Dashboard](Dashboard-Screenshot.png)
